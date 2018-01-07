@@ -1,4 +1,4 @@
 # myFirstProject.github.io
-#RESPONSIVE PAGE
+RESPONSIVE PAGE
 
-#I have created this page with use of these markup languages : HTML,HTML5,CSS,CSS3
+I have created this page with use of these markup languages : HTML,HTML5,CSS,CSS3
